@@ -1,0 +1,1 @@
+console.log("NodeJs Application started")
